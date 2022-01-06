@@ -1,2 +1,2 @@
 # SQL-CRUD
-Learning CRUD operations
+Practise problems to learn CRUD operations in MySQL and Postregsql.
